@@ -1,0 +1,39 @@
+.maga-box{
+    width: 500px;
+    height:400px;
+    border:3px solid darkolivegreen;
+    /* overflow: hidden; */
+    /* overflow: scroll; use lorla y borabor 1 ta unnassary scroll sola asa f */
+    /* overflow-y: scroll; */
+    overflow: scroll;
+    overflow-x: hidden;
+    
+
+
+}
+.normal-pople{
+    width: 300px;
+    height:200px;
+    border:3px solid rgb(227, 0, 0);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#normal-pople{
+    width: 300px;
+    height:200px;
+    border:3px solid rgb(227, 0, 0);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.meni{
+    width: 100px;
+    border: 2px solid rgb(255, 192, 203);
+}
+
+.small-text{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
